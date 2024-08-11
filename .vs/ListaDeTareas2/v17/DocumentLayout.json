@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fede_\\source\\repos\\ListaDeTareas2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B103F20-2547-483F-BAA4-159D34413AF0}|ListaDeTareas2\\ListaDeTareas2.csproj|c:\\users\\fede_\\source\\repos\\listadetareas2\\listadetareas2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B103F20-2547-483F-BAA4-159D34413AF0}|ListaDeTareas2\\ListaDeTareas2.csproj|solutionrelative:listadetareas2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B103F20-2547-483F-BAA4-159D34413AF0}|ListaDeTareas2\\ListaDeTareas2.csproj|c:\\users\\fede_\\source\\repos\\listadetareas2\\listadetareas2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B103F20-2547-483F-BAA4-159D34413AF0}|ListaDeTareas2\\ListaDeTareas2.csproj|solutionrelative:listadetareas2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B103F20-2547-483F-BAA4-159D34413AF0}|ListaDeTareas2\\ListaDeTareas2.csproj|c:\\users\\fede_\\source\\repos\\listadetareas2\\listadetareas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B103F20-2547-483F-BAA4-159D34413AF0}|ListaDeTareas2\\ListaDeTareas2.csproj|solutionrelative:listadetareas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\source\\repos\\ListaDeTareas2\\ListaDeTareas2\\Program.cs",
+              "RelativeDocumentMoniker": "ListaDeTareas2\\Program.cs",
+              "ToolTip": "C:\\Users\\fede_\\source\\repos\\ListaDeTareas2\\ListaDeTareas2\\Program.cs",
+              "RelativeToolTip": "ListaDeTareas2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T01:04:27.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fede_\\source\\repos\\ListaDeTareas2\\ListaDeTareas2\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaDeTareas2\\Form1.cs",
+              "ToolTip": "C:\\Users\\fede_\\source\\repos\\ListaDeTareas2\\ListaDeTareas2\\Form1.cs",
+              "RelativeToolTip": "ListaDeTareas2\\Form1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowDkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:46:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\fede_\\source\\repos\\ListaDeTareas2\\ListaDeTareas2\\Form1.cs",
+              "RelativeDocumentMoniker": "ListaDeTareas2\\Form1.cs",
+              "ToolTip": "C:\\Users\\fede_\\source\\repos\\ListaDeTareas2\\ListaDeTareas2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaDeTareas2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:46:44.374Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

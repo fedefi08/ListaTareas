@@ -1,0 +1,10 @@
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\bin\Debug\ListaDeTareas2.exe.config
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\bin\Debug\ListaDeTareas2.exe
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\bin\Debug\ListaDeTareas2.pdb
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\obj\Debug\ListaDeTareas2.csproj.AssemblyReference.cache
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\obj\Debug\ListaDeTareas2.Form1.resources
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\obj\Debug\ListaDeTareas2.Properties.Resources.resources
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\obj\Debug\ListaDeTareas2.csproj.GenerateResource.cache
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\obj\Debug\ListaDeTareas2.csproj.CoreCompileInputs.cache
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\obj\Debug\ListaDeTareas2.exe
+C:\Users\fede_\source\repos\ListaDeTareas2\ListaDeTareas2\obj\Debug\ListaDeTareas2.pdb
